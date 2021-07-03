@@ -1,0 +1,59 @@
+.header_wrapper{
+    width: 100%;
+    position: relative;
+    background:  url("https://res.cloudinary.com/dj0pjewbs/image/upload/v1625322877/bg6_jeik9z.jpg")  no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.main_content {
+    width: 100%;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+.main_content .keepCoding{
+    color: whitesmoke;
+}
+.main_content > h1 {
+    color: whitesmoke;
+}
+.main_content .my_name {
+    color: rgb(139, 139, 133);
+}
+.main_content .my_name .specific_name{
+    color: whitesmoke;
+    font-weight: 500;
+}
+.Typed_string {
+    color: whitesmoke ;
+    font-size: 20px;
+    font-weight: 800;
+}
+.main_content > button {
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.main_content > button:hover {
+   background-color: grey;
+   text-decoration: none;
+   color: whitesmoke;
+   transition: 0.2s ease-in-out;
+}
+.Contact_me{
+    margin-top: 1rem;
+    background-color: transparent;
+    border-color: crimson;
+    border: 2px solid crimson;
+    width: 100px;
+    border-radius: 10px;
+}

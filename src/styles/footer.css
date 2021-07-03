@@ -1,0 +1,11 @@
+.footer{
+    background-image: linear-gradient(to top, #060323, #1c203e, #34375a, #4c5179, #666c99, #6d81b2, #7297cb, #76ade3, #60c2f2, #4cd6f9, #48e9f8, #5ffbf1);
+    opacity: 0.2;
+}
+
+.footer_name{
+    letter-spacing: 4px;
+    font-weight: 500;
+    font-size: 25px;
+    color: rgb(58, 3, 58);
+}
