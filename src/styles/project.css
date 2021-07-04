@@ -5,12 +5,15 @@
     font-family: fantasy;
 }
 #project .col-left {
-	width: 250px;
+	width: 100%;
 	height: 360px;
 }
+#project .col-left{
+	margin-left: auto;
+	margin-right: auto;
+ }
 #project .col-right {
 	width: 100%;
-	/* height: 360px; */
     margin-top: 5rem;
 
 }
@@ -143,6 +146,10 @@
         text-align: right !important;
 		margin-top: 1rem;
 	}
+	#project .col-left{
+        margin-left: auto;
+        margin-right: auto;
+     }
 }
 @media (min-width: 411px) and (max-width: 920px){
     .project{
@@ -156,27 +163,34 @@
 	 #project .col-right {
 		margin-top: 2rem;
 	}
-			#project .col-right h1,
-		#project .col-right h2{
-		text-align: center;
-		}
-		#project .col-left img{
-		height: 300px;
-		width: 300px;
-		box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-		border-radius: 10px;
-		transition: transform .5s ease;
-		transform-origin: 0 ;
-		overflow: hidden;
+	#project .col-left{
+        margin-left: auto;
+        margin-right: auto;
 		justify-items: center;
-		justify-content: center;
-		align-items: center;
-		}
-		#project .col-right .cta {
-		display: flex;
-		flex-direction: row;
-		margin-top: 1rem;
-		}
+        justify-content: center;
+        align-items: center;
+     }
+	#project .col-right h1,
+	#project .col-right h2{
+	text-align: center;
+	}
+	#project .col-left img{
+	height: 300px;
+	width: 300px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	border-radius: 10px;
+	transition: transform .5s ease;
+	transform-origin: 0 ;
+	overflow: hidden;
+	justify-items: center;
+	justify-content: center;
+	align-items: center;
+	}
+	#project .col-right .cta {
+	display: flex;
+	flex-direction: row;
+	margin-top: 1rem;
+	}
 }
 
 
@@ -194,6 +208,10 @@
 	 #project .col-right h2{
 		text-align: center;
 	 }
+	 #project .col-left{
+        margin-left: auto;
+        margin-right: auto;
+     }
 	 #project .col-left img{
 		height: 300px;
 		width: 350px;
@@ -230,9 +248,12 @@
 	#project.project .col-left img:hover{
 		transform: none;
  	}
-     #project.project .col-left{
+	 #project .col-left{
         margin-left: auto;
         margin-right: auto;
+		justify-items: center;
+        justify-content: center;
+        align-items: center;
      }
      #project.project .col-left img{
         height: 300px;

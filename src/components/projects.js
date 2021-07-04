@@ -21,7 +21,7 @@ export default function Projects() {
                     <a href="https://github.com/Prakash07-er" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
-                <div class="project-img">
+                <div class="project-img"  data-aos="fade-in">
                 <img src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625306009/ecommerce_a4lfvk.png" alt="img" />
                 </div>
 
@@ -44,7 +44,7 @@ export default function Projects() {
                     <a href="#resume" class="cta"> <i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
-                <div class="project-img">
+                <div class="project-img"  data-aos="fade-in">
                 <img src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625306108/whatisblog_oiqzpz.png" alt="img" />
                 </div>
 
@@ -67,7 +67,7 @@ export default function Projects() {
                     <a href="https://github.com/Prakash07-er/eTorque_eCommerce_MERN_project" rel="noopener noreferrer" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
-                <div class="project-img">
+                <div class="project-img"  data-aos="fade-in">
                 <img src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625306305/res_xzzcps.jpg" alt="img" />
                 </div>
             </div>
