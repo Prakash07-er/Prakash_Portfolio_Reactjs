@@ -15,19 +15,19 @@ export default function Navbar() {
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto">
                     <li class="nav-item active">
-                        <a href="#myprofile" class="nav-link"> 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 <span class="sr-only">(current)</span></a>
+                        <a href="#myprofile" class="nav-link"> 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#about" class="nav-link" >𝓐𝓑𝓞𝓤𝓣 𝓜𝓔</a>
+                        <a href="#about" class="nav-link" >𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#resume" class="nav-link" >𝓡𝓔𝓢𝓤𝓜𝓔</a>
+                        <a href="#resume" class="nav-link" >𝗥𝗘𝗦𝗨𝗠𝗘</a>
                     </li>
                     <li class="nav-item">
-                        <a href= "#project" class="nav-link" >𝓟𝓡𝓞𝓙𝓔𝓒𝓣𝓢</a>
+                        <a href= "#project" class="nav-link" >𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
                     </li>
                    <li class="nav-item">
-                        <a href="#contact" class="nav-link" >𝓒𝓞𝓝𝓣𝓐𝓒𝓣 𝓜𝓔</a>
+                        <a href="#contact" class="nav-link" >𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</a>
                     </li>
                     </ul>
                 
