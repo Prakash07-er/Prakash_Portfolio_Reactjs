@@ -70,8 +70,29 @@ export default function Projects() {
                 <div class="project-img"  data-aos="fade-in">
                 <img src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625306305/res_xzzcps.jpg" alt="img" />
                 </div>
+            </div>   
             </div>
-           
+        
+         <div class="project container " data-aos="fade-right">
+            <div class="col-right">
+                    <h2 > URL Shortner MERN </h2>
+                   <ul className="tech_list">
+                       <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> JavaScript </li>
+                       <li className='li_tech_list '><i class="fas fa-angle-right left-arrow-heading" ></i> ReactJs </li>
+                   </ul>
+                   <ul className="tech_list">
+                       <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> NodeJs </li>
+                       <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> MongoDB </li>
+                   </ul>
+                    
+                    <a href="https://urlshortner-nodejs.netlify.app/" class="cta" ><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
+                    <a href="https://github.com/Prakash07-er/url-shortner-mern-be" rel="noopener noreferrer" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                </div>
+              <div class="col-left">
+                <div class="project-img"  data-aos="fade-in">
+                <img src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1627373976/urls_hcqfyl.jpg" alt="img" />
+                </div>
+            </div>           
             </div>
         
         </section>
