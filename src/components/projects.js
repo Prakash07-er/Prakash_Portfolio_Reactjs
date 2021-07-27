@@ -18,7 +18,7 @@ export default function Projects() {
                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> NodeJs </li>
                    </ul>                   
                     <a href="https://e-torque.herokuapp.com/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
-                    <a href="https://github.com/Prakash07-er" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://github.com/Prakash07-er" class="cta" rel="noopener noreferrer" target="_blank"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
@@ -41,7 +41,7 @@ export default function Projects() {
                     </ul>   
                         
                     <a href="https://boggers-den-mern-stack.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
-                    <a href="https://github.com/Prakash07-er/bloggers_den_backEnd" class="cta"> <i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://github.com/Prakash07-er/bloggers_den_backEnd" class="cta" rel="noopener noreferrer" target="_blank"> <i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
@@ -64,7 +64,7 @@ export default function Projects() {
                    </ul>
                     
                     <a href="https://boggers-den-mern-stack.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
-                    <a href="https://github.com/Prakash07-er/eTorque_eCommerce_MERN_project" rel="noopener noreferrer" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://github.com/Prakash07-er/eTorque_eCommerce_MERN_project" rel="noopener noreferrer" target="_blank" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
@@ -86,7 +86,7 @@ export default function Projects() {
                    </ul>
                     
                     <a href="https://urlshortner-nodejs.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank" ><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
-                    <a href="https://github.com/Prakash07-er/url-shortner-mern-be" rel="noopener noreferrer" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://github.com/Prakash07-er/url-shortner-mern-be" rel="noopener noreferrer" target="_blank" class="cta"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
