@@ -13,7 +13,7 @@ export default function Resume() {
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Prakash Umaganthan</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Born To Explore, Tries to learn something new every day,  digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <p>
               <ul>
                 <li>Pondicherry, No:4,Reddiarpalayam, IN</li>
