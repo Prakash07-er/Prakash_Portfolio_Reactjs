@@ -27,7 +27,7 @@ export default function Resume() {
               <h4>Bachelor of Engineering; Ece</h4>
               <h5>2014 - 2018</h5>
               <p><em>Christ college of engineering and  Technology, Pondicherry, IN</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <p>Completed my graduation in Electronics and Commucnication stream without any career gap and gained 8CGPA </p>
             </div>
             <div class="resume-item">
               <h4>proficiency</h4>
