@@ -11,10 +11,10 @@ export default function Projects() {
                     <h2 > Ecommerce MERN Project </h2>
                     <ul className="tech_list">
                        <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> JavaScript </li>  
-                       <li className='li_tech_list'><i class="fas fa-angle-right left-arrow-heading" ></i> EmailJs  </li>
+                       <li className='li_tech_list'><i class="fas fa-angle-right left-arrow-heading" ></i> Reactjs  </li>
                    </ul>                   
                     <ul className="tech_list">
-                       <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> Bootstrap </li>  
+                       <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> MongoDB </li>  
                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> NodeJs </li>
                    </ul>                   
                     <a href="https://e-torque.herokuapp.com/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
@@ -36,8 +36,8 @@ export default function Projects() {
                         <li className='li_tech_list '><i class="fas fa-angle-right left-arrow-heading" ></i> ReactjS</li>
                     </ul>   
                     <ul className="tech_list">
-                        <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> JAvaScript</li>
-                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> ReactjS</li>
+                        <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> Nodejs</li>
+                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> Mongo DB</li>
                     </ul>   
                         
                     <a href="https://boggers-den-mern-stack.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
@@ -59,8 +59,8 @@ export default function Projects() {
                        <li className='li_tech_list '><i class="fas fa-angle-right left-arrow-heading" ></i> ReactJs </li>
                    </ul>
                    <ul className="tech_list">
-                       <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> JavaScript </li>
-                       <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> ReactJs </li>
+                       <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> Nodejs </li>
+                       <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> MongoDB </li>
                    </ul>
                     
                     <a href="https://restaraunt-reactjs.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank"><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
