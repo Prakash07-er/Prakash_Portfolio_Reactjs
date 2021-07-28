@@ -46,10 +46,10 @@ export default function Resume() {
               <p><em>Sutherland Global pvt limited, Chennai, IN </em></p>
               <p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li> Handilng the technical queries and non-technical queries of Amazon Kindle and Echo devices</li>
+                <li>Managing the team target as well as individual target of team members. </li>
+                <li>Represent the team in meetings and conference calls with Clusters</li>
+                <li>Represent the team in meetings and conference calls with Clusters</li>
               </ul>
               </p>
             </div>
@@ -59,8 +59,8 @@ export default function Resume() {
               <p><em>Conneqt Business solution, Chennai, IN</em></p>
               <p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Identify customers' needs, clarify information, research every issue and provide solutions and/or alternatives..</li>
+                <li>Build sustainable relationships and engage customers by taking the extra mile</li>
               </ul>
               </p>
             </div>
