@@ -23,6 +23,7 @@ export default function Resume() {
               </p>
             </div>
               <div class="resume-item">
+                <h3 class="resume-title">About Me</h3>
               <h4>proficiency</h4>
               <ul>
                 <li>Well known with JavaScript</li>
