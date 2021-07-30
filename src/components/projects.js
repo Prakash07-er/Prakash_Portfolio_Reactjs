@@ -104,6 +104,7 @@ export default function Projects() {
                    </ul>
                    <ul className="tech_list">
                        <li className='li_tech_list list_top'><i class="fas fa-angle-right left-arrow-heading" ></i> CSS3 </li>
+                       <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> Bootstrap </li>
                    </ul>
                     
                     <a href="https://developer-githubclone.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank" ><i class="fas fa-code-branch liveDemo_Icon"></i> Live Demo</a>
