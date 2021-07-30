@@ -5,22 +5,30 @@ export default function Resume() {
     return (
         <>
         <section id="resume" class="resume" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-        <h1 class="section-heading-title">MY RESUME </h1>
+        <h1 class="section-heading-title">MY JOURNEY </h1>
       <div class="container">
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">About Me</h3>
             <div class="resume-item pb-0">
               <h4>Prakash Umaganthan</h4>
               <p><em>Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Born To Explore, Tries to learn something new every day,  digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <p>
+                <h5>2021 - till</h5>
               <ul>
-                <li>Pondicherry, No:4,Reddiarpalayam, IN</li>
                 <li>(+91) 77088 74955 </li>
                 <li>er.u.prakashmahi@gmail.com</li>
               </ul>
               </p>
+            </div>
+              <div class="resume-item">
+              <h4>proficiency</h4>
+              <ul>
+                <li>Well known with JavaScript</li>
+                <li> Mern stack development </li>
+                <li>Good in Data structures</li>
+              </ul>
             </div>
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
@@ -29,14 +37,7 @@ export default function Resume() {
               <p><em>Christ college of engineering and  Technology, Pondicherry, IN</em></p>
               <p>Completed my graduation in Electronics and Commucnication stream without any career gap and gained 8CGPA </p>
             </div>
-            <div class="resume-item">
-              <h4>proficiency</h4>
-              <ul>
-                <li>Well known with JavaScript</li>
-                <li> Mern stack development </li>
-                <li>Good in Data structures</li>
-              </ul>
-            </div>
+           
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
