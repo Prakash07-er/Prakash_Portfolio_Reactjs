@@ -18,7 +18,7 @@ export default function Navbar() {
                         <a href="#myprofile" class="nav-link"> My Profile <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#about" class="nav-link" About Me</a>
+                        <a href="#about" class="nav-link"> About Me</a>
                     </li>
                     <li class="nav-item">
                         <a href="#resume" class="nav-link" > Journey   </a>
