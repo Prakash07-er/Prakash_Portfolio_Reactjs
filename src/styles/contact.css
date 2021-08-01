@@ -32,6 +32,9 @@
     margin-top: 3rem;
     margin-left: 40%;
 }
+.contact-form .social_links_me{
+    padding: 1rem;
+}
 .contact-form form .row{
     margin-bottom: -7%;
 }
