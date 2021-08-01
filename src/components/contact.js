@@ -44,9 +44,9 @@ export default function Contact() {
                     </div>
                 </div>
                 <div className="row cantact_inks">
-                     <a href="https://wa.link/3a10z6" alt =" " target="_blank" className="social_links_me"> <i class="fab fa-whatsapp"></i> </a> 
-                     <a  href="https://github.com/Prakash07-er/" alt =" " target="_blank"  className="social_links_me">  <i class="fab fa-github"></i> </a>
-                      <a  href="https://linkedin.com/in/prakash-umaganthan-full-stack-developer" alt =" " target="_blank"  className="social_links_me"> <i class="fab fa-linkedin"></i> </a> 
+                     <a href="https://wa.link/3a10z6" alt =" " target="_blank" className="social_links_me" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> </a> 
+                     <a  href="https://github.com/Prakash07-er/" alt =" " target="_blank"  className="social_links_me" rel="noopener noreferrer">  <i class="fab fa-github"></i> </a>
+                      <a  href="https://linkedin.com/in/prakash-umaganthan-full-stack-developer" alt =" " target="_blank" rel="noopener noreferrer" className="social_links_me"> <i class="fab fa-linkedin"></i> </a> 
 
                 </div>
             </form>
