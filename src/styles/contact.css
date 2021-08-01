@@ -27,6 +27,11 @@
 .contact-form form{
     padding: 14%;
 }
+.contact-form .cantact_inks{
+    color: white;
+    margin-top: 3rem;
+    margin-left: 40%;
+}
 .contact-form form .row{
     margin-bottom: -7%;
 }
