@@ -17,9 +17,11 @@
     color: whitesmoke !important;
 }
 a.nav-link {
-    font-size: 500 !important;
-    letter-spacing: 0.035rem;
+     font-size: 800 !important;
+    font-weight: 900;
+    text-transform:uppercase;
     cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
 }
 ul > li {
     text-transform: uppercase;
