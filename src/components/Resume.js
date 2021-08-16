@@ -50,7 +50,7 @@ export default function Resume() {
                 <li> Handilng the technical queries and non-technical queries of Amazon Kindle and Echo devices</li>
                 <li>Managing the team target as well as individual target of team members. </li>
                 <li>Represent the team in meetings and conference calls with Clusters</li>
-                <li>Represent the team in meetings and conference calls with Clusters</li>
+                <li>Manage large amounts of inbound and outbound calls in a timely manner</li>
               </ul>
               </p>
             </div>
