@@ -8,7 +8,7 @@ export default function Header() {
         <>
         <div className="header_wrapper" id="myprofile" >
             <div className="main_content" data-aos='fade-right'  >
-                <h1> 𝐢𝐟(𝐛𝐫𝐚𝐢𝐧 != 𝐞𝐦𝐩𝐭𝐲) then <span className="keepCoding"> 𝗞𝗲𝗲𝗽𝗖𝗼𝗱𝗶𝗻𝗴 </span>  <br/> else 𝗢𝗿𝗱𝗲𝗿𝗖𝗼𝗳𝗳𝗲𝗲 <br />  </h1>
+                <h1> 𝐢𝐟(𝐛𝐫𝐚𝐢𝐧 != 𝐞𝐦𝐩𝐭𝐲) then <span className="keepCoding"> 𝗞𝗲𝗲𝗽𝗖𝗼𝗱𝗶𝗻𝗴 </span>  <br/> else 𝗢𝗿𝗱𝗲𝗿 𝗖𝗼𝗳𝗳𝗲𝗲 <br />  </h1>
                 <h2 className="my_name">I'm <span className="specific_name">Prakash </span>  who is </h2>
                 <Typed 
                     className="Typed_string"

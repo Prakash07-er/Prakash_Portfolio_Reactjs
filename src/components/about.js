@@ -20,7 +20,7 @@ export default function About() {
                 <h2 className="last_h2_heading "><i class="fas fa-angle-right left-arrow-heading"></i> Tries to learn something new every day </h2>
                 
                 
-                <a href="https://drive.google.com/file/d/1CdBymSdYfID0OQexWbzNvbX0aJQUCoEx/view" download="newfilename" target="_blank" rel="noopener noreferrer" class="cta"><i class="fas fa-download download_icon "></i>  Download Resume</a>
+                <a href="https://drive.google.com/file/d/1hBSQpXenGGb4HH9hPK5lEd9hpcw3kYwK/view?usp=share_link" download="newfilename" target="_blank" rel="noopener noreferrer" class="cta"><i class="fas fa-download download_icon "></i>  Download Resume</a>
                 <a href="#contact" class="cta"><i class="fab fa-gripfire hire_me_icon"></i> Hire Me</a>
             </div>
             </div>
